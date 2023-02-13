@@ -2,6 +2,14 @@ body {
     background-color: #93BFCF;
 }
 
+h1 {
+    color: #395eda;
+} 
+
+h3 {
+    color: #3ea761;
+}
+
 hr {
     
     border-style: dotted none none;
@@ -10,6 +18,3 @@ hr {
     width: 5%;
 }
 
-h1, h3 {
-    color: #395eda;
-}
